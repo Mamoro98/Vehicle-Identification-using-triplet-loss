@@ -54,14 +54,6 @@ This repository focuses on a **deep learning approach for vehicle identification
 
 ---
 
-## 📸 Sample Outputs
-
-| Input Image | Embedding Cluster |
-|-------------|--------------------|
-| ![Image 1](path/to/image1.png) | Cluster A |
-| ![Image 2](path/to/image2.png) | Cluster B |
-
----
 
 ## 📝 Citation
 
